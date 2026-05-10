@@ -1,3 +1,13 @@
+# 📊 Progress
+
+- [x] Repository setup
+- [x] Folder structure created
+- [ ] GPIO basics (coming soon)
+- [ ] Sensors module
+- [ ] Motor control
+- [ ] Robot projects
+- [ ] Computer vision
+----
 # 🗺️ Robotics Learning Roadmap
 
 This roadmap shows how you will progress from beginner to robotics builder.
