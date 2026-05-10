@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/status-work%20in%20progress-yellow) 
+
 # 🤖 Raspberry Pi Robotics Lab
 
 A hands-on robotics learning journey using Raspberry Pi.
